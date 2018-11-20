@@ -11,6 +11,8 @@
 
 - Estamos revolucionando o mercado cervejeiro! Estamos em Floripa, crescendo por todo o Brasil, onde já estamos presentes em mais de 14 estados.
 
+- Hoje nossa stack atual é em sua maior parte Javascript, somos abertos e buscamos constantemente novas tecnologias e soluções.
+
 <br/>
 
 ### Tá afim de trabalhar com a gente? Temos essas vagas em aberto:
