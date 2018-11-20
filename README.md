@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="260" src="https://github.com/myTapp/temos-vagas/blob/master/mytapp.png?raw=true">
+</p>
+
 #### Você ama cerveja, ou ama gente que ama cerveja?
 
 #### A myTapp veio para inovar o mercado cervejeiro e desenvolveu o primeiro sistema inteligente de auto-atendimento de chope do Brasil, oferecemos para os clientes finais a possibilidade de consumir e pagar por mL.
