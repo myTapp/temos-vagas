@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="260" src="https://github.com/myTapp/temos-vagas/blob/master/mytapp.png?raw=true">
+  <img src="https://github.com/myTapp/temos-vagas/blob/master/dev.webp?raw=true">
 </p>
 
 ### Tá afim de trabalhar com a gente? Temos essas vagas em aberto:
