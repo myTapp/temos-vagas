@@ -9,8 +9,6 @@
 Vaga | Tipo | Nº Vagas | Teste Prático      
 ---- | ----------- | ----------- | -----------
 Full-stack Developer | CLT | 2 | [Teste](https://github.com/myTapp/full-stack-test)
-Front-end Developer | CLT | 1 | [Teste](https://github.com/myTapp/front-end-test)
-Tester | Estágio | 1 |
 Suporte | Estágio | 1 | 
 
 <br/>
