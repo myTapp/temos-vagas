@@ -8,6 +8,7 @@
 
 Vaga | Tipo | Nº Vagas | Teste Prático      
 ---- | ----------- | ----------- | -----------
+Full-stack Developer | CLT | 1 | [Teste](https://github.com/myTapp/full-stack-test)
 
 <br/>
 
