@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/myTapp/temos-vagas/blob/master/dev.webp?raw=true">
-</p>
-
 ### Tá afim de trabalhar com a gente? Temos essas vagas em aberto:
 
 <br/>
