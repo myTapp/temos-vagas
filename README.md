@@ -2,9 +2,9 @@
 
 <br/>
 
-Vaga | Nº Vagas | Teste Prático      
----- | ----------- | -----------
-Full-stack Developer | 1 | [Teste](https://github.com/myTapp/full-stack-test)
+Vaga | Nº Vagas | Tipo de Vaga | Teste Prático      
+---- | ----------- | ----------- | -----------
+Full-stack Developer | 1 | CLT | [Teste](https://github.com/myTapp/full-stack-test)
 
 <br/>
 
