@@ -1,5 +1,8 @@
-### Tá afim de trabalhar com a gente? Temos essas vagas em aberto:
+<p align="center">
+  <img width="260" src="https://github.com/myTapp/front-end-test/blob/master/mytapp.png?raw=true">
+</p>
 
+### Tá afim de trabalhar com a gente? Temos essas vagas em aberto:
 <br/>
 
 Vaga | Nº Vagas | Tipo de Vaga | Teste Prático      
