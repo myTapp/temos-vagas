@@ -8,10 +8,8 @@
 Vaga | Nº Vagas | Tipo de Vaga | Teste Prático      
 ---- | ----------- | ----------- | -----------
 Full-stack Developer | 1 | CLT | [Teste](https://github.com/myTapp/full-stack-test)
-
+> Tem interesse em alguma vaga? Entre em contato com a gente pelo email software@mytapp.com.br
 <br/>
-
-- Tem interesse em alguma vaga? Entre em contato com a gente pelo email software@mytapp.com.br
 
 #### Você ama cerveja, ou ama gente que ama cerveja?
 
