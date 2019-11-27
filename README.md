@@ -11,6 +11,8 @@ Full-stack Developer | 1 | CLT | [Teste](https://github.com/myTapp/full-stack-te
 
 <br/>
 
+- Tem interesse em alguma vaga? Entre em contato com a gente pelo email software@mytapp.com.br
+
 #### Você ama cerveja, ou ama gente que ama cerveja?
 
 - A myTapp veio para inovar o mercado cervejeiro e desenvolveu o primeiro sistema de auto-atendimento de chope do Brasil, oferecemos para os clientes finais a possibilidade de consumir e pagar por mL.
@@ -21,5 +23,3 @@ Full-stack Developer | 1 | CLT | [Teste](https://github.com/myTapp/full-stack-te
 - Estamos revolucionando o mercado cervejeiro! Estamos em Floripa, crescendo por todo o Brasil, onde já estamos presentes em mais de 14 estados.
 
 - Hoje nossa stack atual é em sua maior parte Javascript, somos abertos e buscamos constantemente novas tecnologias e soluções.
-
-- Tem interesse em alguma vaga? Entre em contato com a gente pelo email desenvolvimento@mytapp.com.br
