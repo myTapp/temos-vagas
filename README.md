@@ -15,7 +15,7 @@ Full-stack Developer | 1 | CLT | [Teste](https://github.com/myTapp/full-stack-te
 
 - A myTapp veio para inovar o mercado cervejeiro e desenvolveu o primeiro sistema de auto-atendimento de chope do Brasil, oferecemos para os clientes finais a possibilidade de consumir e pagar por mL.
 
-- Aqui estamos a todo momento inovando e criando nossos produtos no segmento de IOT, o que nos trás novos desafios a todo momento, além dos sistemas web de gerenciamento dos clientes, B.I interativo, App mobile, infraestrutura dos servidores, etc. Isso tudo faz com que os desenvolvedores tenham contato e participem de projetos com diversas tecnologias e serviços diferentes. 
+- Aqui estamos a todo momento inovando e criando nossos produtos no segmento de IoT, o que nos trás novos desafios a todo momento, além dos sistemas web de gerenciamento dos clientes, B.I interativo, App mobile, infraestrutura dos servidores, etc. Isso tudo faz com que os desenvolvedores tenham contato e participem de projetos com diversas tecnologias e serviços diferentes. 
 - Utilizamos hardware, sistemas web, aplicativos e dashboards próprios, open-source ou híbridos para trazer a melhor experiência para o consumidor de cerveja e uma maior eficiência operacional, inteligência e controle para os donos de estabelecimentos. 
 
 - Estamos revolucionando o mercado cervejeiro! Estamos em Floripa, crescendo por todo o Brasil, onde já estamos presentes em mais de 14 estados.
