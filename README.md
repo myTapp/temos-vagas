@@ -7,7 +7,7 @@
 
 Vaga | Nº Vagas | Tipo de Vaga | Descrição da Vaga | Teste Prático      
 ---- | ----------- | ----------- | ----------- | -----------
-Full-stack developer | 1 | CLT | [Sobre](https://github.com/myTapp/temos-vagas/blob/master/clt-fullstack.md) | [Teste](https://github.com/myTapp/full-stack-test)
+
 > Tem interesse em alguma vaga? Entre em contato com a gente pelo email software@mytapp.com.br
 <br/>
 
